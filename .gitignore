@@ -1,0 +1,9 @@
+.idea/
+gradle/
+build/
+test/
+*.yaml
+*.html
+*.class
+*.gradle
+*.bat
